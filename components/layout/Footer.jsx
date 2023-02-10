@@ -1,4 +1,4 @@
-import { FooterComponent } from '@/styles/styled-components/FooterComponent';
+import { FooterComponent } from '@/styles/FooterComponent';
 const Footer = () => {
   return (
     <FooterComponent>

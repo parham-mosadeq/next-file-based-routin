@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const FooterComponent = styled.footer`
-  width: 100%;
+  max-width: 100vw;
   margin: 1rem auto;
   display: flex;
   justify-content: center;

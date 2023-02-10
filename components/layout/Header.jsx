@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { HeaderComponent } from '@/styles/styled-components/HeaderComponent';
+import { HeaderComponent } from '@/styles/HeaderComponent';
 const Header = () => {
   return (
     <HeaderComponent>
